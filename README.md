@@ -101,3 +101,10 @@ Plain HTML / CSS / JS. No framework, no build step, no backend.
 SVG there directly. `icon-180.png` is a rasterized copy for iOS Safari's "Add to
 Home Screen", which ignores SVG. If the icon design changes, re-export
 `icon-180.png` from `icon.svg` at 180×180.
+
+
+---
+
+<p align="center">
+  <sub><em>crafted by <a href="https://github.com/ibrahim-iqbal">ibrahim-iqbal</a> · <a href="https://dev.to/ibrahimiqbal">dev.to</a></em></sub>
+</p>
